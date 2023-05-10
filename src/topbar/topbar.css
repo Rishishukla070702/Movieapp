@@ -1,0 +1,39 @@
+.top{
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    display: flex;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    z-index: 999;
+}
+.topLeft,.topRight{
+    flex: 2;
+    background-color: white;
+    display: flex;
+  align-items: center ;
+  justify-content: center;
+}
+.topRight img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+     cursor: pointer;
+}
+.topLeft img{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+   cursor: pointer;
+}
+
+
+
+
+
+
+
