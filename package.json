@@ -2,7 +2,7 @@
   "name": "blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Rishishukla070702.github.io/Movieapp",
+
   "dependencies": {
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
