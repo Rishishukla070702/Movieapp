@@ -1,4 +1,3 @@
-
 import TopBar from "./topbar/TopBar";
 import React from "react";
 
@@ -8,17 +7,15 @@ import Trailer from "./Trailer/Trailer";
 import Recommended from "./Recommended/Recommended";
 import Footer from "./footer/Footer";
 function App() {
-  const user=true;
   return (
     <div>
-    
-      <TopBar/>
-      <Header/>
-      <Posts/>
-      <Trailer/>
-      <Recommended/>
-      <Footer/>
-      </div>
+      <TopBar />
+      <Header />
+      <Posts />
+      <Trailer />
+      <Recommended />
+      <Footer />
+    </div>
   );
 }
 
